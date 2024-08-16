@@ -10,9 +10,9 @@ header {
     background-color: black;
     height: 70px;
 }
-li {
+menu > ul > li {
     display: inline-block;
-    text-align: center;
+    float: none;
 }
 a {
     font-size: 1.3em;
