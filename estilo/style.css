@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+* {
+    padding: 0px;
+    margin: 0px;
+
+}
+
+header {
+    background-color: black;
+    height: 70px;
+}
+li {
+    display: inline-block;
+    text-align: center;
+}
+a {
+    font-size: 1.3em;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
